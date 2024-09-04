@@ -1,3 +1,7 @@
+# Note: This repository has been archived
+This branch was forked under a previous phase of the Yale Digital Humanities Lab. Now a part of Yale Library’s Computational Methods and Data department, the Lab no longer includes this branch in its scope of work. As such, it will receive no further updates.
+
+
 # Keras Preprocessing
 
 [![Build Status](https://travis-ci.org/keras-team/keras-preprocessing.svg?branch=master)](https://travis-ci.org/keras-team/keras-preprocessing)
